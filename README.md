@@ -29,7 +29,7 @@ I'm a multi-talented individual! When I'm not coding, you can find me:
 ## Let's Connect!
 - 📫 Reach out to me: [nukteyatkin@gmail.com](mailto:nukteyatkin@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nukteyatkin/)
-- [Personal Website](https://main--classy-meerkat-07e0fc.netlify.app/)
+- [Personal Website](https://nukteyatkin.netlify.app)
 
 Let's connect and build something amazing together! 💻🚀
 
